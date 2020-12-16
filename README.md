@@ -8,9 +8,10 @@ Game design tips, tricks and mechanics
 > - [The Binding of Isaac] 
 > - [Bloodborne]
 
-- Fog of war
+> **Fog of war.**
 
-Menu in game world Antichamber
+> **Menu in game world**
+> - [Antichamber]
 
 Red barrels
 

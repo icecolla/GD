@@ -1,16 +1,16 @@
 # GD
 Game design tips, tricks and mechanics
 
-> **Give the player clear goals.**
+> ****Give the player clear goals.****
 > - [Unity 2016](https://www.youtube.com/watch?v=aC3c_pcWwIQ&ab_channel=Unity)
 
-> **Health as currancy.** 
+> ****Health as currancy.**** 
 > - [The Binding of Isaac] 
 > - [Bloodborne]
 
-> **Fog of war.**
+> ****Fog of war.****
 
-> **Menu in game world**
+> ****Menu in game world****
 > - [Antichamber]
 
 Red barrels

@@ -1,10 +1,12 @@
 # GD
 Game design tips, tricks and mechanics
 
-> - **Give the Player Clear Goals.**
-> [Unity 2016](https://www.youtube.com/watch?v=aC3c_pcWwIQ&ab_channel=Unity)
+> **Give the player clear goals.**
+> - [Unity 2016](https://www.youtube.com/watch?v=aC3c_pcWwIQ&ab_channel=Unity)
 
-> - Health as currancy The Binding of Isaac Bloodborne
+> **Health as currancy.** 
+> - [The Binding of Isaac] 
+> - [Bloodborne]
 
 - Fog of war
 

@@ -54,17 +54,18 @@ Game design tips, tricks and mechanics
 > ****Undo. Rules that player can change****
 > - [Baba is You](https://store.steampowered.com/app/736260/Baba_Is_You/)
 
-Ladders
+> ****Ladders.****
 
-Close combat medkits
+> ****Close combat medkits.****
 
-Difficulty selection
+> ****Difficulty selection.****
 
-Combo
+> ****Combo.****
 
-Physics-gun
+> ****Physics-gun.****
 
-Airport control Fly This!
+> ****Airport control.****
+> -[Fly THIS!](https://play.google.com/store/apps/details?id=co.northplay.FlyTHIS&hl=en&gl=US)
 
 Luck stat
 

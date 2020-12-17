@@ -65,7 +65,7 @@ Game design tips, tricks and mechanics
 > ****Physics-gun.****
 
 > ****Airport control.****
-> -[Fly THIS!](https://play.google.com/store/apps/details?id=co.northplay.FlyTHIS&hl=en&gl=US)
+> - [Fly THIS!](https://play.google.com/store/apps/details?id=co.northplay.FlyTHIS&hl=en&gl=US)
 
 Luck stat
 

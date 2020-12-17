@@ -10,42 +10,49 @@ Game design tips, tricks and mechanics
 
 > ****Fog of war.****
 
-> ****Menu in game world****
+> ****Menu in game world.****
 > - [Antichamber](https://store.steampowered.com/app/219890/Antichamber/)
 
-Red barrels
+> ****Red barrels.****
 
-Editable world Astroneer
+> ****Editable world.****
+> - [Astroneer](https://store.steampowered.com/app/361420/ASTRONEER/)
 
-Weapon customization
+> ****Weapon customization.****
 
-Home as save point
+> ****Home as save point.****
 
-Bullet hell
+> ****NPC relationship.****
+> - [Streets of Rogue](https://store.steampowered.com/app/512900/Streets_of_Rogue/)
 
-NPC relationship Streets of Roque
+> ****Level color toggle.****
+> - [Crash Bash](https://crashbandicoot.fandom.com/wiki/Pogo_Pandemonium)
 
-Level color toggle
+> ****Player ghost after dying.****
 
-Player ghost after dying
+> ****Sudden death.**** 
+> - [Worms](https://en.wikipedia.org/wiki/Worms_(series))
 
-Sudden death Worms
+> ****Bridge construction.****
 
-Bridge construction
+> ****Terrain claiming.****
 
-Terrain claiming
+> ****Rhythm-based mechanics.**** 
+> - [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/)
 
-Rhythm-based mechanics Crypt of the Necrodancer
+> ****Other player stats.****
+> - [Opus Magnum](https://store.steampowered.com/app/558990/Opus_Magnum/)
 
-Other player stats Opus Magnum
+> ****Offline income.****
 
-Offline income
+> ****Farm.****
+> - [Slime Rancher](https://store.steampowered.com/app/433340/Slime_Rancher/)
 
-Farm Slime Rancher
+> ****Programming.****
+> - [Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
 
-Programming Human Resource Machine
-
-Undo/ Rules that player can change - Baba is You
+> ****Undo. Rules that player can change****
+> - [Baba is You](https://store.steampowered.com/app/736260/Baba_Is_You/)
 
 Ladders
 
@@ -204,3 +211,8 @@ Advanced jump
 Game inside the game
 
 Diplomacy system
+
+Genre
+
+Bullet hell
+

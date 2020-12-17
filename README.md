@@ -5,13 +5,13 @@ Game design tips, tricks and mechanics
 > - [Unity 2016](https://www.youtube.com/watch?v=aC3c_pcWwIQ&ab_channel=Unity)
 
 > ****Health as currancy.**** 
-> - [The Binding of Isaac] 
-> - [Bloodborne]
+> - [The Binding of Isaac](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/)
+> - [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)
 
 > ****Fog of war.****
 
 > ****Menu in game world****
-> - [Antichamber]
+> - [Antichamber](https://store.steampowered.com/app/219890/Antichamber/)
 
 Red barrels
 

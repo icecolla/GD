@@ -67,33 +67,41 @@ Game design tips, tricks and mechanics
 > ****Airport control.****
 > - [Fly THIS!](https://play.google.com/store/apps/details?id=co.northplay.FlyTHIS&hl=en&gl=US)
 
-Luck stat
+> ****Luck stat.****
 
-Dynamic difficulty
+> ****Dynamic difficulty.****
 
-Clicker elements Dispotism 3K
+> ****Clicker elements.****
+> - [Despotism 3K](https://store.steampowered.com/app/699920/Despotism_3k/)
 
-Coins only for achievements Into the Breach
+> ****Coins only for achievements.****
+> - [Into the Breach](https://store.steampowered.com/app/590380/Into_the_Breach/)
 
-Prestige
+> ****Prestige.****
 
-Dynamic chest content Half Life
+> ****Dynamic chest content.****
+> - [Half Life](https://en.wikipedia.org/wiki/Half-Life_(video_game))
 
-Seamless dialogues Oxenfrees
+> ****Seamless dialogues.**** 
+> - [Oxenfree](https://store.steampowered.com/app/388880/Oxenfree/)
 
-Bullet FPS Control
+> ****Bullet FPS Control.****
 
-Match-3 next to another game
+> ****Match-3 next to another game.****
 
-Changing player size Mario
+> ****Changing player size.****
+> - [Mario](https://en.wikipedia.org/wiki/Mario)
 
-Limited breath underwater TES IV: Oblivion
+> ****Limited breath underwater.****
+> - [TES IV: Oblivion](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion)
 
-Dynamic sound track Ape Out
+> ****Dynamic sound track.****
+> - [APE OUT](https://store.steampowered.com/app/447150/APE_OUT/)
 
-Emotional conncetion to NPCs Papers, Please
+> ****Emotional conncetion to NPCs.****
+> - [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/)
 
-Weapon sharpening
+> ****Weapon sharpening.****
 
 Best moment highlight Overwatch
 

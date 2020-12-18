@@ -103,23 +103,31 @@ Game design tips, tricks and mechanics
 
 > ****Weapon sharpening.****
 
-Best moment highlight Overwatch
+> ****Best moment highlight.****
+> - [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
 
-Sanity Meter Darkest Dungeon/ Don't Starve Together
+> ****Sanity Meter.****
+> - [Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest_Dungeon/)
+> - [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/)
 
-Level Editor
+> ****Level Editor.****
 
-Painting the level Splatoon
+> ****Painting the level.****
+> - [Splatoon](https://en.wikipedia.org/wiki/Splatoon)
 
-Shooting with trajectory Angry Birds
+> ****Shooting with trajectory.**** 
+> - [Angry Birds](https://en.wikipedia.org/wiki/Angry_Birds)
 
-Snake Snakebird/ Snakebus
+> ****Snake.****
+> - [Snakebird](https://store.steampowered.com/app/357300/Snakebird/)
+> - [Snakebus](https://store.steampowered.com/app/1012560/Snakeybus/)
 
-CCTV cameras
+> ****CCTV cameras.****
 
-Gyroscope controls
+> ****Gyroscope controls.****
 
-Map scouting Watchdog
+> ****Map scouting.****
+> - [Watchdog](https://en.wikipedia.org/wiki/Watch_Dogs)
 
 Mini-game to reload Gear of War Synthetik
 

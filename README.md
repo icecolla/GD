@@ -129,105 +129,119 @@ Game design tips, tricks and mechanics
 > ****Map scouting.****
 > - [Watchdog](https://en.wikipedia.org/wiki/Watch_Dogs)
 
-Mini-game to reload Gear of War Synthetik
+> ****Mini-game to reload.**** 
+> - [Gear of War](https://en.wikipedia.org/wiki/Gears_of_War)
+> - [Synthetik](https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/)
 
-Mini-game to pick locks
+> ****Mini-game to pick locks.****
 
-Restart as part of story The Stanly Parable
+> ****Restart as part of story.****
+> - [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/)
 
-Masked Another world
+> ****Masked Another world.****
 
-Allowed griefing
+> ****Allowed griefing.****
 
-Design by substraction Turn Right
+> ****Design by substraction.****
+> - [Turn Right](https://www.youtube.com/watch?v=Y-L4NnFZ95c&ab_channel=SSGAMER)
 
-Gesturs to cast spells
+> ****Gesturs to cast spells.****
 
-Local coop Split screen
+> ****Local coop. Split screen.****
 
-Tower Defence Elements
+> ****Tower Defence Elements.****
 
-Crafting
+> ****Crafting.****
 
-Lifesteal
+> ****Lifesteal.****
 
-Seamless transport
+> ****Seamless transport.****
 
-Failed attempts display 
+> ****Failed attempts display.****
 
-NPCs revenge
+> ****NPCs revenge.****
 
-2D World rotation FEZ
+> ****2D World rotation.****
+> - [FEZ](https://store.steampowered.com/app/224760/FEZ/)
 
-Enemy splits on death
+> ****Enemy splits on death.****
 
-Turning to NPCs
+> ****Turning to NPCs.****
 
-Travel to body after death
+> ****Travel to body after death.****
 
-Automations Factorio
+> ****Automations.****
+> - [Factorio](https://store.steampowered.com/app/427520/Factorio/)
 
-Climbing on bosses Shadow of the Colussus
+> ****Climbing on bosses.****
+> - [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus)
 
-Character switching
+> ****Character switching.****
 
-Planetary gravity
+> ****Planetary gravity.****
 
 Collecting (Feelings)
 
-Flashlight battaries
+> ****Flashlight battaries.****
 
-Non stop player control
+> ****Non stop player control.****
 
-Go-anywhere skill tree Path of Exile
+> ****Go-anywhere skill tree.****
+> - [Path of Exile](https://store.steampowered.com/app/238960/Path_of_Exile/)
 
-Narrator The Stanly Parable
+> ****Narrator.****
+> - [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/)
 
-Destructible world Worms
+> ****Destructible world.****
+> - [Worms](https://en.wikipedia.org/wiki/Worms_(series))
 
-Grapping hooks Just Cause
+> ****Grapping hooks.**** Just Cause
 
-Unit mode switching
+> ****Unit mode switching.****
 
-Time travel for objects 
+> ****Time travel for objects.****
 
-Day-night cycle
+> ****Day-night cycle.****
 
-Slowmo on player stops Super Hot
+> ****Slowmo on player stops.****
+> -[Super Hot](https://store.steampowered.com/app/322500/SUPERHOT/)
 
-Using GPS location
+> ****Using GPS location.****
 
-Timeline swithcing
+> ****Timeline swithcing.****
 
-Vehicles and mounts
+> ****Vehicles and mounts.****
 
-Asymmetric PvP Crawl
+> ****Asymmetric PvP Crawl.****
 
-Time rewind
+> ****Time rewind.****
 
-Building level on the go Clyde's Escape
+> ****Building level on the go.****
+> - [Clyde's Escape](https://play.google.com/store/apps/details?id=com.emeraldpowder.clydesescape&hl=en&gl=US)
 
-Portals
+> ****Portals.****
 
-New abilities at same level
+> ****New abilities at same level.****
 
-Daily quest or rewards
+> ****Daily quest or rewards.****
 
-Climbing
+> ****Climbing.****
 
-Impossible objects as level Monument Valley
+> ****Impossible objects as level.****
+> - [Monument Valley](https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley&hl=en&gl=US)
 
-Player's attension check Faster Than Light
+> ****Player's attension check.****
+> - [Faster Than Light](https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/)
 
-Drawing in-game objects
+> ****Drawing in-game objects.****
 
-Perma-death
+> ****Perma-death.****
 
-Advanced jump
+> ****Advanced jump.****
 
-Game inside the game
+> ****Game inside the game.****
 
-Diplomacy system
+> ****Diplomacy system.****
 
 Genre
 

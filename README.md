@@ -2,7 +2,7 @@
 
 | | |
 | --- | --- |
-| !![Unity 2016](https://www.youtube.com/watch?v=aC3c_pcWwIQ&ab_channel=Unity) |
+| ![Unity 2016](https://www.youtube.com/watch?v=aC3c_pcWwIQ&ab_channel=Unity) |
 | <p style="text-align: left; padding-left: 16px;"><strong>Give the player clear goals</strong><br /><em></em></p> <hr style="padding-left: 16px;" /> |
   <p style="text-align: left; padding-left: 16px;"></p> |
 

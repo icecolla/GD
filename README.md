@@ -2,7 +2,8 @@
 
 | | |
 | --- | --- |
-| <p style="text-align: left; padding-left: 16px;"><strong>Give the player clear goals</strong><br /><em>Don't like programming?</em></p> <hr style="padding-left: 16px;" /> <p style="text-align: left; padding-left: 16px;">Construct geometries using custom algorithms, maths or generate patterns without writing a single line of code!</p> |
+| <p style="text-align: left; padding-left: 16px;"><strong>Give the player clear goals</strong><br /><em></em></p> <hr style="padding-left: 16px;" />
+  <p style="text-align: left; padding-left: 16px;">![Unity 2016](https://www.youtube.com/watch?v=aC3c_pcWwIQ&ab_channel=Unity)</p> |
 
 > ****Give the player clear goals.****
 > - [Unity 2016](https://www.youtube.com/watch?v=aC3c_pcWwIQ&ab_channel=Unity)
